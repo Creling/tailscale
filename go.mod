@@ -1,4 +1,4 @@
-module tailscale.com
+module github.com/Creling/tailscale
 
 go 1.22.0
 
